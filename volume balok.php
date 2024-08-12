@@ -14,4 +14,4 @@ echo "<br>tinggi=". $tinggi;
 $volume=$panjang*$lebar*$tinggi;
 //Tampilkan hasil perkalian
 echo "<br>hasil volume balok adalah=". $volume;
-//Selesai
+//Selesa

@@ -1,4 +1,5 @@
 <?php
+echo "<h2>Selamat anda berhasil Login</h2>";
 // Daftar hari libur nasional
 $publicHolidays = [
     '2024-01-01', // Tahun Baru
@@ -42,3 +43,19 @@ $endDate = '2024-08-20';   // Format YYYY-MM-DD
 
 printWorkdays($startDate, $endDate);
 ?>
+
+
+<p>
+<a href="02 index menentukan hari libur .php">
+      <button>Kembali ke Input</button>
+</a>
+</p>
+
+<p>atau kembali ke : </p>
+<a href="http://localhost/">
+      <button>Localhost</button>
+</a>
+<a href="../">
+      <button>Folder Awal</button>
+</a>
+<br><br><strong>By meylisa eka putry</strong=";
